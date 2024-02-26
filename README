@@ -1,0 +1,7 @@
+###How to install 
+Create virtual inveronment
+bash: python -m venv venv
+Activete veitual environment
+bash: source path/to/activate/venv
+Install libraries
+bash: pip install -r requirements
